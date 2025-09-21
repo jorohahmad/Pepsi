@@ -139,7 +139,7 @@ aside {
 
 @keyframes imge2 {
     0% {
-        transform: translateY(500px);
+        transform: translateY(400px);
     }
 
     100% {
