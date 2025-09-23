@@ -1,0 +1,1 @@
+window.alert("this work is dedicated to my dear friend Jafar Zahire")
